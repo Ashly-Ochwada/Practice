@@ -1,0 +1,40 @@
+h2{
+    color: black;
+    text-align: center;
+    font-size: 90px;
+}
+body{
+ background-image: url("Image/about.gif");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.overlay{
+    background-color: rgba(0,0,0, 0.5);
+    height: 100%;
+  }
+
+nav{
+    text-align:right;
+    font-size:20px;
+}
+
+a{
+    text-decoration:none;
+    padding:10px;
+    color:white;
+}
+
+nav>ul>a:hover{
+    box-shadow:5 5 10px;
+    background-color:brown;
+}
+p{
+    font-size: 40px;
+}
+button{
+    float: right;
+    background-color: blue;
+}
+.BTN{
+    float: left;
+}

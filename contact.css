@@ -1,0 +1,13 @@
+table{
+    border: 11px;
+    font-size: 30px;
+}
+tr, td, th{
+    padding: 90px;
+    border: 82px;
+    border: 30px double;
+}
+button{
+        float:left;
+        background-color: blue;
+    }

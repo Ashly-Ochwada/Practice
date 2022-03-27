@@ -1,0 +1,24 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 7px;
+    justify-content: right;
+    font-size: 30px;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+h1{
+    color: black;
+   text-align: center;
+   font-weight: bolder;
+   font-size: 200px;
+}
+body{
+   background-image:url(/Image/hb\ foods.jpeg);
+ }
+ button{
+     float: right;
+     background-color: blue;
+ }

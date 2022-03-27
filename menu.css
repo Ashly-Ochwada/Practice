@@ -1,0 +1,138 @@
+body{
+   color: blue;
+}
+.class{
+/* display:flex; */
+flex-direction:row;
+justify-content:space-around;
+}
+nav{
+    text-align: right;
+}
+#breakfast{
+    display: flex;
+}
+.pc2{
+    padding: 10px;
+    margin: 5px;
+}
+.pC3{
+    padding: 10px;
+    margin: 5px;
+}
+.pc4{
+    padding: 10px;
+    margin: 5px;
+}
+.pic1{
+    /* float: left; */
+    padding: 10px;
+    margin: 5px;
+}
+#dessert{
+    display: flex;
+}
+
+.pic2{
+    padding: 10px;
+    margin: 5px;
+}
+.pic3{
+    padding: 10px;
+    margin: 5px;
+}
+.pic4{
+    padding:10px;
+    margin: 5px;
+}
+button{
+    background-color:darkred
+}
+.big{
+    text-align: center;
+    font-size: 80px;
+}
+.small{
+    text-align: center;
+    font-size: 80px;
+}
+.mini{
+    text-align: center;
+    font-size: 80px;
+}
+#lunch{
+    display: flex;
+}
+.lunch1{
+    padding: 10x;
+    margin:5px;
+}
+.lunch2{
+    padding: 10x;
+    margin: 5px;
+}
+.lunch3{
+    padding: 10px;
+    margin: 5px;
+}
+.lunch4{
+    padding: 10px;
+    margin: 5px;
+}
+.wines{
+    text-align: center;
+    font-size: 80px;
+}
+#drinks{
+    display: flex;
+}
+.wine1{
+    padding: 10x;
+    margin:5px;
+}
+.wine2{
+    padding: 10x;
+    margin: 5px;
+}
+.wine3{
+    padding: 10px;
+    margin: 5px;
+}
+.wine4{
+    padding: 10px;
+    margin: 5px;
+}
+h1{
+    font-size: 80px;
+}
+#dinner{
+    display: flex;
+}
+.supper{
+    text-align: center;
+    font-size: 80px; 
+}
+.dinner1{
+    padding: 10x;
+    margin:5px;
+}
+.dinner2{
+    padding: 10x;
+    margin: 5px;
+}
+.dinner3{
+    padding: 10px;
+    margin: 5px;
+}
+.dinner4{
+    padding: 10px;
+    margin: 5px;
+}
+button{
+    float: right;
+    background-color: blue;
+}
+.resmenu{
+    float: left;
+}
+
