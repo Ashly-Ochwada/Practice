@@ -11,3 +11,14 @@ button{
         float:left;
         background-color: blue;
     }
+    nav li{
+        list-style: none;
+        display: inline;
+        margin: 7px;
+        justify-content: right;
+        font-size: 30px;
+        color: white;
+    }
+    nav{
+        text-align: center;
+    }
